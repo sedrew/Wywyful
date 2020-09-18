@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Wywyful2"
+config/name="Wywyful"
 config/icon="res://icon.png"
 
 [rendering]
